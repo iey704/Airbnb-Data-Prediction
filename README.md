@@ -17,11 +17,11 @@ If the age is less than 10 years old or more than 90 years old, it was considere
 ![image](https://github.com/iey704/Airbnb-Data-Prediction/assets/105503671/963635c4-7e4c-4401-b87b-ffbb0b72e71c)
 ![image](https://github.com/iey704/Airbnb-Data-Prediction/assets/105503671/00ade4a5-e0d7-42c2-9181-ef36ceff4375)
 ![image](https://github.com/iey704/Airbnb-Data-Prediction/assets/105503671/5c30e797-66b9-49f9-89aa-341aac7b17cd)
-\n
+<br/>
 **Final Preprocessing Method:**
 ![image](https://github.com/iey704/Airbnb-Data-Prediction/assets/105503671/9a7e4923-c887-48c7-867d-94eaf6d037e0)
 
-[### Scaling](url)
+### Scaling
 **the numerical data was preprocessed by scaling (MinMax, Robust, Standard)**
 ![image](https://github.com/iey704/Airbnb-Data-Prediction/assets/105503671/ffff8839-4856-4325-86a5-2d24e6b1453e)
 
